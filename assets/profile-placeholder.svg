@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#9b5cff"/>
+      <stop offset="1" stop-color="#80e1d1"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="500" fill="#111827"/>
+  <circle cx="250" cy="250" r="220" fill="url(#bg)" opacity="0.95"/>
+  <circle cx="250" cy="175" r="78" fill="#e5eef6" opacity="0.93"/>
+  <path d="M150 385C160 300 200 270 250 270C300 270 340 300 350 385" fill="#e5eef6" opacity="0.93"/>
+  <path d="M170 380C180 340 215 320 250 320C285 320 320 340 330 380" fill="#24324a" opacity="0.7"/>
+  <text x="250" y="470" font-family="Segoe UI, Arial" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Sheilla Irungu</text>
+</svg>
